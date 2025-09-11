@@ -2,7 +2,7 @@
 ![Beige Aesthetic Simple Quote Desktop Wallpaper](https://github.com/user-attachments/assets/e5677534-fe45-49cf-8a39-533c2c23693c)
 
 # ❕ About Me:
-Estudante de desenvolvimento de sistemas no segundo periodo<br>
+Estudante de **Desenvolvimento de Sistemas** no **SENAI** (2º semestre)<br>
 
 
 # ❕ Tech Stack:
