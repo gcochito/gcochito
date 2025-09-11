@@ -1,5 +1,6 @@
 
-![Beige Aesthetic Simple Quote Desktop Wallpaper](https://github.com/user-attachments/assets/e5677534-fe45-49cf-8a39-533c2c23693c)
+![Beige-Aesthetic-Simple-Quote-D-unscreen](https://github.com/user-attachments/assets/59571633-9cff-45fc-a8d2-5c036c88ce76)
+
 
 # ❕ About Me:
 Estudante de **Desenvolvimento de Sistemas** no **SENAI** (2º semestre)<br>
