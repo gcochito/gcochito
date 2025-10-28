@@ -13,6 +13,4 @@ Estudante de **Desenvolvimento de Sistemas** no **SENAI** (2º semestre)<br>
 ![](https://github-readme-stats.vercel.app/api?username=gcochito&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gcochito&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ❕ Repositórios com maior contribuição
-![](https://github-contributor-stats.vercel.app/api?username=gcochito&limit=5&theme=omni&combine_all_yearly_contributions=true)
 
